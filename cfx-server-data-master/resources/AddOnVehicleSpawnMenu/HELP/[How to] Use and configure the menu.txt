@@ -1,0 +1,13 @@
+[How to] Use and configure the menu?
+
+>	To Open the Menu press the Home / Pos1 Button on your Keyboard.
+
+>	It is also possible to open the menu settings through keeping the
+>	Page Up pressed and also pressing the Home / Pos1 Button on
+>	your Keyboard.
+
+>	You can pre-configure the menu and allow or deny player to open
+>	the menu settings by editing the values in the config.lua.
+
+
+>>>>Check the '[How to] Add Add-On Vehicles.txt' to understand how to add Vehicles in the menu<<<<

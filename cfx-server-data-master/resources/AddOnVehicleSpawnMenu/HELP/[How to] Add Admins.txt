@@ -1,0 +1,14 @@
+[How to] Add Admins?
+
+If you use ESMode, skip to Step 4
+
+    Open the Admins.txt
+    Add Admins in the given format
+    Save the Admins.txt
+    Open the config.lua
+    Change false to true on Line 24
+
+Line 23		--Change "false" to "true" to disable the Menu for Non-Admins
+Line 24		OnlyForAdmins = true
+
+    Profit

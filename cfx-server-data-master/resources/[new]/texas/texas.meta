@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+	<Item>
+      <parent>texas_full</parent>
+      <child>texas_full</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>

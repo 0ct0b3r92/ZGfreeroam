@@ -1,0 +1,43 @@
+SpawnName: gtr
+DisplayName: 2017 Nissan GTR
+
+SpawnName: r8v10abt
+DisplayName: Audi R8 V10 Plus 2017
+
+SpawnName: mgt 
+DisplayName: 2015 Ford Mustang GT
+
+SpawnName: i8
+DisplayName: 2015 BMW i8
+
+SpawnName: p1
+DisplayName: 2014 McLaren P1 
+
+SpawnName: gtr
+DisplayName: 2017 Nissan GTR
+
+SpawnName: 2013rs7
+DisplayName: 2013 Audi RS7
+
+SpawnName: rmodlp750
+DisplayName: Lamborghini Aventador LP 750-4
+
+SpawnName: gt17
+DisplayName: 2017 Ford GT
+
+SpawnName: eleanor
+DisplayName: Shelby GT500 Eleanor
+
+SpawnName: oppressor
+DisplayName: Oppressor Bike
+
+SpawnName: ruston
+DisplayName: Ruston
+
+SpawnName: ruiner2
+DisplayName: Ruiner2000
+
+SpawnName:
+DisplayName:
+
+

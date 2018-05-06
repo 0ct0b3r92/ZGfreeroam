@@ -1,0 +1,46 @@
+@import url('res/futurastd-medium.css');
+
+html {
+	color: #e0e0e0;
+}
+
+#wrap {
+	width: 25%;
+	min-height: 185px;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+table {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: left;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border: 0px solid rgb(255, 255, 255);
+}
+
+th, td {
+	padding-left: 20px;
+}
+
+th {
+	padding-top: 5px;
+	height: 35px;
+}
+
+tr {
+	font-size: 120%;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+tr.heading {
+    background-color: #00ff88; /* Table Heading Background Color */
+		color: #ffffff; /* Table Heading Text Color */
+		font-weight: 500; /* Makes the header font bold */
+
+}
+
+/* Copyright ThatZiv

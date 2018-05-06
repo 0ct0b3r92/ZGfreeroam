@@ -1,0 +1,4 @@
+1. Extract the content of the Archive into your resource folder
+2. Add start AddOnVehicleSpawnMenu to your server.cfg
+3. Add your Add-On Vehicles to the Add-On Vehicles.txt
+4. Profit

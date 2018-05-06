@@ -1,0 +1,6 @@
+[How to] Add Add-On Vehicles?
+
+1. Open the Add-On Vehicles.txt
+2. Add ONE Vehicle for each line
+3. Add the name you use to spawn the Vehicle after 'SpawnName: ’
+4. Add the name which should be shown in the menu after 'DisplayName: ’
